@@ -247,4 +247,8 @@
   .blog_container {
     margin-top: 2rem;
   }
-}/*# sourceMappingURL=main.css.map */
+  .blog_container > img{
+    width:100%;
+    height:250px;
+   }
+  /*# sourceMappingURL=main.css.map */
